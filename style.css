@@ -9,16 +9,6 @@ header, nav, main, footer {
   padding: 1rem; 
 }
 
-/* come back to review this later, not sure if needed */
-/* nav ul { 
-  list-style: ; 
-  padding: 0; 
-  margin: 0; 
-}
-nav a { 
-  text-decoration: none; 
-  color: black; 
-} */
 
 /* Medium screens */
 @media only screen and (min-width: 600px) {
